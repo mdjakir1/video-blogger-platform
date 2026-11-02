@@ -3,7 +3,7 @@
     {
       "id": "test-video-001",
       "title": "আমাদের প্রথম ভিডিও",
-      "videoUrl": "https://example.com/video.mp4",
+      "videoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/video?file=bangla%20viral%20video%20link.mp4",
       "thumbnailUrl": "https://via.placeholder.com/640x360.png?text=Test+Video",
       "category": "General",
       "tags": ["test", "first-video"],
