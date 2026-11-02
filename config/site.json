@@ -7,5 +7,6 @@
   "commentsEnabled": true,
   "likesEnabled": true,
   "viewsEnabled": true,
-  "adPopupDelaySeconds": 5
+  "adPopupDelaySeconds": 5,
+  "channelLogoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fchannel-logo.jfif"
 }
