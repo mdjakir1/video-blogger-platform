@@ -1,0 +1,11 @@
+{
+  "siteName": "আপনার সাইটের নাম",
+  "logoText": "LOGO",
+  "siteDescription": "Your video platform",
+  "themeMode": "dark",
+  "showDescription": false,
+  "commentsEnabled": true,
+  "likesEnabled": true,
+  "viewsEnabled": true,
+  "adPopupDelaySeconds": 5
+}
