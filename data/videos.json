@@ -33,22 +33,6 @@
       "published": true
     },
     {
-      "id": "video-1793623327189",
-      "title": "xxx bangla viral video",
-      "videoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/video?file=videos%2Fvideo-1793623327189.mp4",
-      "thumbnailUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=thumbnails%2Fvideo-1793623327189.jfif",
-      "category": "General",
-      "tags": [
-        "xxx",
-        "bangla",
-        "viral",
-        "video"
-      ],
-      "views": 52,
-      "likes": 0,
-      "published": true
-    },
-    {
       "id": "video-1793611676042",
       "title": "hellooo",
       "videoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/video?file=videos%2Fvideo-1793611676042.mp4",
