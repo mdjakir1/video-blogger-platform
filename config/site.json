@@ -10,7 +10,7 @@
   "adPopupDelaySeconds": 5,
   "channelLogoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fchannel-logo.jpg",
   "popup": {
-    "enabled": true,
+    "enabled": false,
     "delaySeconds": 5,
     "visibleSeconds": 16,
     "name": "Sponser",
