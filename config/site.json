@@ -12,11 +12,11 @@
   "popup": {
     "enabled": true,
     "delaySeconds": 5,
-    "visibleSeconds": 10,
-    "name": "text",
-    "message": "ok",
-    "buttonName": "visit",
+    "visibleSeconds": 15,
+    "name": "Sponser",
+    "message": "এখানে লাইভ চলতেছে",
+    "buttonName": "Visit",
     "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
-    "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793701163096.jfif"
+    "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793725093401.jfif"
   }
 }
