@@ -18,5 +18,42 @@
     "buttonName": "Visit",
     "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
     "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793735768370.jfif"
+  },
+  "videoPopups": {
+    "video-1793730245293": [
+      {
+        "enabled": true,
+        "name": "Sponser",
+        "triggerType": "at_time",
+        "triggerSeconds": 5,
+        "visibleSeconds": 10,
+        "message": "এখানে লাইভ চলতেছে",
+        "buttonName": "Visit",
+        "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
+        "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793740376037.jfif"
+      },
+      {
+        "enabled": true,
+        "name": "Sponser",
+        "triggerType": "at_time",
+        "triggerSeconds": 60,
+        "visibleSeconds": 10,
+        "message": "আপনি কি আমার সাতে সেক্স করতে চান ? তাহলে এখনি আমার সাতে যোগাযোগ করুন | আপনার অপেক্ষায় !",
+        "buttonName": "Contact me",
+        "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
+        "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793740433919.jfif"
+      },
+      {
+        "enabled": true,
+        "name": "Sponser",
+        "triggerType": "on_end",
+        "triggerSeconds": 0,
+        "visibleSeconds": 10,
+        "message": "আপনি কি হট সময় কাটাতে চান , এমন বন্ধু খুঁজছেন ? তাহলে chate room এ ছলে আসুন !",
+        "buttonName": "Chate Room",
+        "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
+        "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1793740647348.jfif"
+      }
+    ]
   }
 }
