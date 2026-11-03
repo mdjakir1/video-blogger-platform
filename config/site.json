@@ -8,5 +8,15 @@
   "likesEnabled": true,
   "viewsEnabled": true,
   "adPopupDelaySeconds": 5,
-  "channelLogoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fchannel-logo.jpg"
+  "channelLogoUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fchannel-logo.jpg",
+  "popup": {
+    "enabled": true,
+    "delaySeconds": 5,
+    "visibleSeconds": 15,
+    "name": "sponser",
+    "message": "ekhon live cholce",
+    "buttonName": "visi now",
+    "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
+    "imageUrl": "https://www.google.com/search?q=bd+sex+model+girl&sca_esv=83f312d482a6a4fe&udm=2&biw=1280&bih=559&sxsrf=AKL5yDj2RTcje-uOsFh_Uk7eYgKMhyo_NA%3A1793694254908&ei=LprpasyCN4uihvcPxJHXsQk&ved=2ahUKEwjM0Zjnr-uXAxULkeEIHcTINZYQ4dUDegQIBhAN&uact=5&oq=bd+sex+model+girl&gs_lp=Egtnd3Mtd2l6LWltZyIRYmQgc2V4IG1vZGVsIGdpcmxI1CNQtwVYgRtwAXgAkAEAmAF0oAGsA6oBAzAuNLgBA8gBAPgBAZgCA6AC8gHCAgUQABiABMICBxAjGMkCGCfCAggQABgIGAcYHpgDAIgGAZIHAzEuMqAHvwKyBwMwLjK4B-4BwgcHMC4xLjEuMcgHEIAIAQ&sclient=gws-wiz-img#sv=CAMSUxoyKhBlLXNhaHozWUNISVBWakJNMg5zYWh6M1lDSElQVmpCTToOMkV0QlpYQWU2d01ETU0gBCoXCgFzEhBlLXNhaHozWUNISVBWakJNGAEwAVACGAcg9_GW_QdKCBACGAEgAigB"
+  }
 }
