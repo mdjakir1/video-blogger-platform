@@ -89,6 +89,41 @@
         "buttonLink": "",
         "imageUrl": ""
       }
+    ],
+    "video-1794655466119": [
+      {
+        "enabled": true,
+        "name": "Sponsor",
+        "triggerType": "at_time",
+        "triggerSeconds": 20,
+        "visibleSeconds": 15,
+        "message": "ভিডিও কলে সেক্স করতে এখনি যোগাযোগ করুন",
+        "buttonName": "Contact Me",
+        "buttonLink": "https://asiafilm.org/4/96aab721ddb7997be5b9191fc8aeede8",
+        "imageUrl": "https://video-blogger-api.freelancerjakir6.workers.dev/asset?file=branding%2Fpopup-1794656755378.jpg"
+      },
+      {
+        "enabled": false,
+        "name": "",
+        "triggerType": "at_time",
+        "triggerSeconds": 0,
+        "visibleSeconds": 10,
+        "message": "",
+        "buttonName": "",
+        "buttonLink": "",
+        "imageUrl": ""
+      },
+      {
+        "enabled": false,
+        "name": "",
+        "triggerType": "at_time",
+        "triggerSeconds": 0,
+        "visibleSeconds": 10,
+        "message": "",
+        "buttonName": "",
+        "buttonLink": "",
+        "imageUrl": ""
+      }
     ]
   }
 }
